@@ -5,7 +5,7 @@ online_grocessary_app ---This is my project name
 
 ### Create to folder to store images
 
-#create asset folder  and inside create images folder to storage images of items like vegetables,fruits,groceries,dairycproducts under online_grocessary_app folder
+#create asset folder  and inside create images folder to storage images of items like vegetables,fruits,groceries,dairy products under online_grocessary_app folder
 
 ### Open lib folder 
 write your main code on main.dart
