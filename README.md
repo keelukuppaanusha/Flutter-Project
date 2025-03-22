@@ -25,3 +25,6 @@ Shopping cart application will be shown
 Displayed with items and prices
 
 
+
+
+![image](https://github.com/user-attachments/assets/eaa4d44b-dd0e-47ad-949f-a4a669160b39)
